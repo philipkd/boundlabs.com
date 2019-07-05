@@ -25,77 +25,8 @@
             </figure>
             
 
-            
 
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-            
-
-            <section class="inline-meta post-extra">
-                
-                
-            </section>
-
-        </section>
-
-        
-        <section class="panel">
-            <footer class="post-footer">
-
-                <section class="panel">
-                    <section class="inline-meta date-notes">
-                        <div class="date-note-wrapper">
-                            
-                            <a href="https://nuclearelements.tumblr.com/post/123659816642/technical-advisor-for-investors-in-bitcoin" title="2 years ago" class="meta-item post-date">Jul 9th, 2015</a>
-                        </div>
-                    </section>
-
-                    <section class="post-controls">
-                        <div class="controls-wrapper">
-                            <div class="control share-control">
-                                <nav class="pop">
-                                    <a href="#" class="share selector"></a>
-                                    <div class="pop-menu share-menu south" id="share_123659816642">
-                                        <ul>
-                                            <li class="open-in-app"><a href="#" class="share-item open-in-app" data-post="123659816642">Open in app</a></li>
-                                            <li><a href="http://facebook.com/sharer.php?u=https%3A%2F%2Fnuclearelements.tumblr.com%2Fpost%2F123659816642%2Ftechnical-advisor-for-investors-in-bitcoin&amp;t=Nuclear%20Elements" class="share-item facebook" target="_blank">Facebook</a></li>
-                                            <li><a href="https://twitter.com/intent/tweet?text=%F0%9F%93%B7%20Technical%20advisor%20for%20investors%20in%20Bitcoin%20startups.%20Background%20includes%20bitcoin%20programming%2C%20smart...%20https%3A%2F%2Ftmblr.co%2FZXOSgq1pAimx2" class="share-item twitter" target="_blank">Tweet</a></li>
-                                            
-                                                <li><a href="//www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fnuclearelements.tumblr.com%2Fpost%2F123659816642%2Ftechnical-advisor-for-investors-in-bitcoin&amp;media=https://68.media.tumblr.com/2d72b9d1a47dbca9b46060dbf57455e5/tumblr_nr8j3fPuDm1sgohbeo1_400.jpg" class="share-item pinterest" target="_blank">Pinterest</a></li>
-                                            
-                                            
-                                            <li><a href="https://reddit.com/submit?url=https%3A%2F%2Fnuclearelements.tumblr.com%2Fpost%2F123659816642%2Ftechnical-advisor-for-investors-in-bitcoin" class="share-item reddit" target="_blank">Reddit</a></li>
-                                            <li><a href="mailto:?subject=A%20photo%20from%20Nuclear%20Elements&amp;body=%F0%9F%93%B7%20Technical%20advisor%20for%20investors%20in%20Bitcoin%20startups.%20Background%20includes%20bitcoin%20programming%2C%20smart%20contracts%2C%20remittance%2C%20exchanges%2C%20cryptography%2C%20and...%20https%3A%2F%2Fnuclearelements.tumblr.com%2Fpost%2F123659816642%2Ftechnical-advisor-for-investors-in-bitcoin" class="share-item mail">Mail</a></li>
-                                            <li><a href="https://nuclearelements.tumblr.com/post/123659816642/technical-advisor-for-investors-in-bitcoin/embed" class="share-item permalink">Embed</a></li>
-                                            <li><a href="https://nuclearelements.tumblr.com/post/123659816642/technical-advisor-for-investors-in-bitcoin" class="share-item permalink">Permalink <i class="arrow"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </nav>
-                            </div>
-                            <div class="control reblog-control"><a href="https://www.tumblr.com/reblog/123659816642/swIad8Cp" class="reblog_button"style="display: block;width:24px;height:24px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
-                            <div class="control like-control"><div class="like_button" data-post-id="123659816642" data-blog-name="nuclearelements" id="like_button_123659816642"><iframe id="like_iframe_123659816642" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=5716f9145cbbcc5e21aa13229de5d4ed#name=nuclearelements&amp;post_id=123659816642&amp;color=black&amp;rk=swIad8Cp" scrolling="no" width="24" height="24" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_123659816642"></iframe></div></div>
-                        </div>
-                    </section>
-
-                </section>
-                <section class="inline-meta date-notes">
-                        
-                </section>
-            </footer>
-        </section>
-        
+        </section>        
         
     </div>
 </article>
