@@ -18,7 +18,10 @@ $contents = str_replace('$bitcoin',article('bitcoin'),$contents);
 print $contents;
 
 function article($name) {
-	return file_get_contents("contents/$name.txt");
+	$template = file_get_contents("contents/_template.txt");
+	$copy = str_replace('$name',$name,$template);
+	$copy = str_replace('$body',Markdown(file_get_contents("contents/$name.txt")),$copy);
+	return $copy;
 }
 
 ?>
