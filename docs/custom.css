@@ -1,0 +1,26 @@
+@media screen and (max-device-width: 568px) {
+
+    #header {
+        margin-top: 0px;
+    }
+    .header-image.cover {
+        background-image: url(tumblr-header-bg-1024px.gif);
+    }
+}
+
+iframe, .panel, .sidebar {
+    display: none !important;
+}
+
+.nav-wrapper, .search-wrapper, .logo-wrapper {
+    display: none;
+}
+
+.header-image.cover {
+    opacity: 1;
+    background-image: url(tumblr-header-bg.gif);
+}
+
+#posts article {
+    margin-bottom: 35px;
+}
