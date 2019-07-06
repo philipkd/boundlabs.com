@@ -4,24 +4,15 @@ ini_set('error_reporting',E_ALL & ~E_NOTICE & ~E_STRICT & ~E_DEPRECATED);
 
 include_once "markdown.php";
 
-$contents = file_get_contents('source.html');
-
-$contents = str_replace("</style>",'</style><link rel="stylesheet" href="custom.css">', $contents);
-
 $headline = "Research-to-Development Specialist";
+$city = "San Francisco, CA";
 
-$contents = str_replace('$title',"Philip Dhingra",$contents);
+$description_nohtml = "$headline in $city";
+$description_html = "$headline<br/>$city<br><a href=\"mailto:phil@boundlabs.com\">phil@boundlabs.com</a><br><br>";
 
-$contents = str_replace('$description-nohtml',"$headline in San Francisco, CA",$contents);
-$contents = str_replace('$description-html',"$headline<br/>San Francisco, CA<br/><a href=\"mailto:phil@boundlabs.com\">phil@boundlabs.com</a>",$contents);
+$title = "Phil Dhingra";
 
 $articles = article('weird-hours') . article('permanote') . article('whack');
-
-$contents = str_replace('$articles',$articles,$contents);
-
-// $contents = str_replace('<script src="http://static.tumblr.com/vr9xgox/2VWmqthak/main-min.js"></script>', '', $contents);
-
-print $contents;
 
 function article($name) {
 	$template = file_get_contents("contents/_template.txt");
@@ -29,5 +20,7 @@ function article($name) {
 	$copy = str_replace('$body',Markdown(file_get_contents("contents/$name.txt")),$copy);
 	return $copy;
 }
+
+include_once "source.html";
 
 ?>
