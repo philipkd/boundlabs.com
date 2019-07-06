@@ -1,0 +1,1 @@
+Philip was the **Machine Learning Developer** behind Weird Hours, a pre-launch product that uses Tensorflow to process natural language tweets from food trucks and restaurants.

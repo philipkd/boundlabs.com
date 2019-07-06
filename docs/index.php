@@ -8,10 +8,14 @@ $contents = file_get_contents('source.html');
 
 $contents = str_replace("</style>",'</style><link rel="stylesheet" href="custom.css">', $contents);
 
-$contents = str_replace('$description-nohtml',"Research-to-Development Lab in San Francisco, CA",$contents);
-$contents = str_replace('$description-html','Research-to-Development Lab<br/>San Francisco, CA<br/><a href="mailto:phil@boundlabs.com">phil@boundlabs.com</a>',$contents);
+$headline = "Research-to-Development Specialist";
 
-$articles = article('permanote') . article('whack');
+$contents = str_replace('$title',"Philip Dhingra",$contents);
+
+$contents = str_replace('$description-nohtml',"$headline in San Francisco, CA",$contents);
+$contents = str_replace('$description-html',"$headline<br/>San Francisco, CA<br/><a href=\"mailto:phil@boundlabs.com\">phil@boundlabs.com</a>",$contents);
+
+$articles = article('weird-hours') . article('permanote') . article('whack');
 
 $contents = str_replace('$articles',$articles,$contents);
 
