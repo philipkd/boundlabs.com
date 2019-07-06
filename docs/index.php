@@ -12,7 +12,13 @@ $description_html = "$headline<br/>$city<br><a href=\"mailto:phil@boundlabs.com\
 
 $title = "Phil Dhingra";
 
-$articles = article('weird-hours') . article('permanote') . article('whack');
+$articles_order = ['weird-hours','titan-seal','whack','landemic','permanote'];
+
+$articles = "";
+
+foreach ($articles_order as $article) {
+	$articles .= article($article);
+}
 
 function article($name) {
 	$body = Markdown(file_get_contents(dirname(__FILE__) . "/contents/$name.txt"));
