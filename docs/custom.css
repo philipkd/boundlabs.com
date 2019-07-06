@@ -24,3 +24,7 @@ iframe, .panel, .sidebar {
 #posts article {
     margin-bottom: 35px;
 }
+
+.caption {
+    font-size: 20px;
+}

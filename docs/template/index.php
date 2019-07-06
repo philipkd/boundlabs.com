@@ -18,8 +18,8 @@
         <style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link rel="shortcut icon" href="https://68.media.tumblr.com/avatar_186ec81ac212_128.png">
         <link rel="apple-touch-icon-precomposed" href="https://68.media.tumblr.com/avatar_186ec81ac212_128.png">
         <link rel="alternate" type="application/rss+xml" href="https://nuclearelements.tumblr.com/rss">
-        <link rel="stylesheet" href="https://static.tumblr.com/27gzhx7/z94ot8t44/main-min.css">
-        <link rel="stylesheet" href="/tumblr/custom.css">        
+        <link rel="stylesheet" href="/styles/main-min.css">
+        <link rel="stylesheet" href="/styles/custom.css">        
         <link rel="stylesheet" media="screen" href="https://assets.tumblr.com/client/prod/standalone/blog-network-post-typography/index.build.css?_v=1ef195f8ef1d82a8c41c3f2aea1d5062"><!-- HTML5 Shiv -->
         <!--[if lt IE 9]>
             <script src="https://static.tumblr.com/hriofhd/Qj0m8pn7q/html5shiv.js"></script>
