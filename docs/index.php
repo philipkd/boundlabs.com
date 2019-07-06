@@ -15,12 +15,12 @@ $title = "Phil Dhingra";
 $articles = article('weird-hours') . article('permanote') . article('whack');
 
 function article($name) {
-	$template = file_get_contents("contents/_template.txt");
-	$copy = str_replace('$name',$name,$template);
-	$copy = str_replace('$body',Markdown(file_get_contents("contents/$name.txt")),$copy);
-	return $copy;
+	$body = Markdown(file_get_contents(dirname(__FILE__) . "/contents/$name.txt"));
+	ob_start();
+	include dirname(__FILE__) . "/template/_article.php";
+	return ob_get_clean();
 }
 
-include_once "source.html";
+include dirname(__FILE__) . "/template/index.php";
 
 ?>

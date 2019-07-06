@@ -13,12 +13,12 @@
             <figure class="post-content  with-caption" data-photo-width="400">
                 <div class="photo-wrapper">
                     <div class="photo-wrapper-inner">
-                        <img src="contents/$name.png" width="400" height="200">
+                        <img src="contents/<?= $name ?>.png" width="400" height="200">
                     </div>
                 </div>
                 
                     <figcaption class="caption">
-                        <p>$body</p>
+                        <p><?= $body ?></p>
                     </figcaption>
                 
                 
