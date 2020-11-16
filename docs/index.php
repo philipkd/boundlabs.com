@@ -5,7 +5,7 @@ ini_set('error_reporting',E_ALL & ~E_NOTICE & ~E_STRICT & ~E_DEPRECATED);
 include_once "markdown.php";
 
 $headline = "Tech Founder";
-$city = "San Francisco, CA";
+$city = "Los Angeles, CA";
 
 $description_nohtml = "$headline in $city";
 $description_html = "$headline<br/>$city<br><a href=\"mailto:phil@boundlabs.com\">phil@boundlabs.com</a><br><br>";
