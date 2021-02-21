@@ -6,7 +6,7 @@
     <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
         <meta name="apple-itunes-app" content="app-id=305343404,affiliate-data=at=11l3M5&ct=us.itunes.uni.tumblr.ipdt,app-argument=tumblr://x-callback-url/blog?blogName=nuclearelements&referrer=smart-app-banner">
         <meta charset="utf-8">
-        <title><?= $title ?></title>
+        <title><?= $browser_title ?></title>
         
         <meta name="description" content="<?= $description_nohtml ?>">
         
