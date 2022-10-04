@@ -179,11 +179,6 @@
                     </svg>
                 </div>
             </div>
-            <div class="app-nag-body">
-                <h1 class="app-nag-callout">See, that’s what the app is perfect for.</h1>
-                <a class="app-nag-large-button app-nag-app-store-link button blue">Sounds perfect</a>
-                <a class="app-nag-large-button app-nag-app-store-deny">Wahhhh, I don’t wanna</a>
-            </div>
         </div>
 
         <section id="page">
