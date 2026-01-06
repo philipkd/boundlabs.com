@@ -6,16 +6,9 @@ include_once "markdown.php";
 
 $description_nohtml = "Philip Dhingra's AGI Research Lab";
 
-$old_description_html = '
-Philip Dhingra\'s AGI Research Lab<br/>
-View my <a href="https://www.linkedin.com/in/philipkd">LinkedIn</a> or<br/>
-<a href="https://philipkd.com/">Personal Home Page</a><br/>
-<br/>';
-
 $description_html = '
-Philip Dhingra\'s AGI Research Lab<br/>
-Check out my <a href="https://github.com/philipkd/Reasoning-LLMs">latest thoughts on Reasoning LLMs</a> or<br/>
-my <a href="https://philipkd.com/">personal home page</a><br/>
+Philip Dhingra\'s AGI Research Lab<p/>
+Check out my <a href="https://philipkd.com/">personal home page</a><br/>
 <br/>';
 
 $browser_title = "Bound Labs by Philip Dhingra";
